@@ -11,3 +11,5 @@ For a bipartite graph G = (V, E), (1) perfect, (2) maximum and (3) maximal match
 >Algorithms for Enumerating All Perfect, Maximum and Maximal Matchings in Bipartite Graphs<br>
 >Author: Takeaki Uno	<br>
 >URL: http://dl.acm.org/citation.cfm?id=686418
+
+How to use:
